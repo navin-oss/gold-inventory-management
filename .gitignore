@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ (if ever used)
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
